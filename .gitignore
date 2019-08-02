@@ -17,4 +17,4 @@ bin
 .vagrant
 gradle-wrapper.jar
 **/.nb-gradle/**
-/chapter00/*
+#/chapter00/*
