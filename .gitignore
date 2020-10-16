@@ -18,3 +18,4 @@ bin
 gradle-wrapper.jar
 **/.nb-gradle/**
 #/chapter00/*
+gradle-in-action
